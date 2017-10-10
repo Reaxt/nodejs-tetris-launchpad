@@ -1,0 +1,33 @@
+echo you looooose
+echo you looooose
+echo you looooose
+echo you looooose
+echo you looooose
+echo you looooose
+echo you looooose
+echo you looooose
+echo you looooose
+echo you looooose
+echo you looooose
+echo you looooose
+echo you looooose
+echo you looooose
+echo you looooose
+echo you looooose
+echo you looooose
+echo you looooose
+echo you looooose
+echo you looooose
+echo you looooose
+echo you looooose
+echo you looooose
+echo you looooose
+echo you looooose
+
+
+start ImageGlass/ImageGlass.exe "LOOSE.gif"
+start ImageGlass/ImageGlass.exe "LOOSE.gif"
+start ImageGlass/ImageGlass.exe "LOOSE.gif"
+start ImageGlass/ImageGlass.exe "LOOSE.gif"
+start ImageGlass/ImageGlass.exe "LOOSE.gif"
+start ImageGlass/ImageGlass.exe "LOOSE.gif"
